@@ -1,5 +1,5 @@
 # DevOps-for-Machine-Learning
-Master's Thesis with Fraunhofer Institute for Production Technology IPT
+Master's Thesis with Fraunhofer Institute for Production Technology IPT and Frankfurt University of Applied Sciences
 
 # Thesis Goals:
 1. Standardized Model Deployment process
